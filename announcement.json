@@ -1,9 +1,9 @@
 {
     "maintenance_mode": false,
     "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nExpected Completion: 24 Hour's\n\nPlease try again later.",
-    "current_version_code": 6,
+    "current_version_code": 7,
     "latest_version": "Bgmi 4.4.0",
     "message": "🔥 NEW UPDATE! 🔥\n\n• Fix Ban Issue\n• Fix LagCrash\n• Anti-Ban Updated",
     "lib_url": "https://github.com/THUNDEROPX/thunderop/releases/download/THUNDER/libBGMI.so",
-    "success_toast": "✅BYPASS ACTIVE TIME IS 2026/05/20!"
+    "success_toast": "✅BYPASS ACTIVE TIME IS 2026/05/21!"
 }
