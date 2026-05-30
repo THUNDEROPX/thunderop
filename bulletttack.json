@@ -3,7 +3,7 @@
     "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nExpected Completion: 24 Hour's\n\nPlease try again later Or contect owner.",
     "current_version_code": 19,
     "latest_version": "Bgmi 4.4.0",
-    "message": "🔥 NEW UPDATE! 🔥\n\n• Fix Termi Ban Issue\n• Fix LagCrash\n• Anti-Ban Updated",
-    "lib_url": "https://github.com/THUNDEROPX/thunderop/releases/download/THUNDER/libBGMI.so",
-    "success_toast": "✅Bypass Server Update Time May 31/2026"
+    "message": "🔥 NEW UPDATE! 🔥\n\n• Fix Fake Damage\n• Fix LagCrash\n• Anti-Ban Updated",
+    "lib_url": "https://github.com/THUNDEROPX/thunderop/releases/download/THUNDER/libTHUNDER.so",
+    "success_toast": "✅BT SERVER BYPASS UPDATE TIME IS 31 MAY 2026/5"
 }
