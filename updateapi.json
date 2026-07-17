@@ -1,6 +1,6 @@
 {
-    "maintenance_mode": false,
-    "maintenance_message": "App is temporarily unavailable.\n available at 9 am",
+    "maintenance_mode": true,
+    "maintenance_message": "App is temporarily unavailable.\n Reason We Are Facing Server Load\n Upgrading Server We will Back ...\n Thanks for patience #THUNDER",
     "current_version_code": 1,
     "latest_version": "BGMI 4.5.0",
     "message": "🔥 NEW UPDATE! 🔥\n\n• Fix Termi Ban Issue\n• Fix LagCrash\n• Anti-Ban Updated",
