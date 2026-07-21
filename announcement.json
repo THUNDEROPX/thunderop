@@ -1,9 +1,9 @@
 {
     "maintenance_mode": true,
     "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nExpected Completion: Life Time Hour's\n\nPlease try again later Or contect owner.",
-    "current_version_code": 23,
-    "latest_version": "Bgmi 4.4.1",
+    "current_version_code": 1,
+    "latest_version": "BGMI 4.5.0",
     "message": "🔥 NEW UPDATE! 🔥\n\n• Fix Termi Ban Issue\n• Fix LagCrash\n• Anti-Ban Updated",
     "lib_url": "https://onlinelib.ggff.net/Thunder/download.php?t=lib",
-    "success_toast": "✅BYPASS UPDATE TIME IS 06/ 30/ 2026"
+    "success_toast": "✅BYPASS UPDATE TIME IS 07/ 21/ 2026"
 }
